@@ -1,1 +1,0 @@
-# lifespark_submission
