@@ -80,7 +80,9 @@ for procedure in procedure_array[1:]:
         length_of_stay = parse(procedure[8]) - parse(procedure[7])
         procedure_keys.append('length_of_stay_in_days')
         procedure.append(length_of_stay.days)
-
+    else: 
+        procedure_keys.append('length_of_stay_in_days')
+        procedure.append(np.nan)
     member_procedure = dict(zip(procedure_keys, procedure[1:]))
     #add to dictionary
     procedure_dictionary[procedure[0]] = member_procedure
@@ -242,3 +244,23 @@ print(readmissions)
 ################ Question 4: Longest Admissions
 ################################
 ################
+
+from collections import OrderedDict
+from operator import getitem
+
+## for this, setting that we're looking at top 10 admissions
+number_of_admissions = 10
+
+### because everything is a nested dictionary and we've already calculated admission length, this is pretty fast
+ordered_procedures = OrderedDict(sorted(procedure_dictionary.items(), key = lambda x: getitem(x[1], 'length_of_stay_in_days'), reverse = True))
+
+### however, this includes some NaN so we need to remove those
+ordered_dict_no_nan = {}
+for procedure, info in ordered_procedures.items():
+    if info['admission_date'] == '' or info['discharge_date'] == '':
+        pass
+    else:
+        ordered_dict_no_nan[procedure] = info
+
+top_x_admissions = list(ordered_dict_no_nan.items())[:number_of_admissions]
+top_x_admissions
