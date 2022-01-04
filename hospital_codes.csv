@@ -1,0 +1,1001 @@
+id,code,cost,code_desc
+1,81320,2552,Repair of blood vessel with synthetic patch graft
+2,01323,1303,Administration of other antitoxins
+3,66894,54,Rectorectostomy
+4,7726,2606,Replacement of wound packing or drain
+5,V021,1357,Other repair and plastic operations on nose
+6,01523,108,Intracapsular extraction of lens by temporal inferior route
+7,76079,2660,Open chest coronary artery angioplasty
+8,38409,1411,Anal cerclage
+9,2309,162,Proctoclysis
+10,52111,2715,Pericardiocentesis
+11,53470,1466,Repair of cystocele and rectocele with graft or prosthesis
+12,64951,217,Excision of nipple
+13,85319,2769,Endoscopic insertion of stent (tube) into bile duct
+14,V473,1520,"Bone graft, unspecified site"
+15,59372,271,Other incision of perivesical tissue
+16,4019,2823,Simple suture of fallopian tube
+17,36614,1574,"Application of external fixator device, carpals and metacarpals"
+18,9941,325,Laser interstitial thermal therapy [LITT] of lesion or tissue of liver under guidance
+19,07031,2877,Repair of parasternal hernia
+20,86351,1629,Other bilateral subcutaneous mammectomy
+21,45374,380,Open and other replacement of tricuspid valve with tissue graft
+22,00844,2932,Epididymectomy
+23,8489,1683,Laser interstitial thermal therapy [LITT] of lesion or tissue of head and neck under guidance
+24,1103,434,Other simple suture of ovary
+25,90451,2986,Other x-ray of male genital organs
+26,38333,1737,Lower GI series
+27,47402,488,Other and unspecified operations on thymus
+28,7396,3040,Replacement of pyelostomy tube
+29,87402,1791,"Other excision of vessels, lower limb arteries"
+30,E9238,543,Cervical sympathectomy
+31,01234,3095,Destruction of rectal lesion or tissue by cryosurgery
+32,E8317,1846,Tenotomy of hand
+33,4711,597,Removal of foreign body from posterior segment of eye with use of magnet
+34,E9506,3149,"Biopsy of bone, radius and ulna"
+35,38161,1900,Open reduction of alveolar fracture
+36,V5416,651,Spinal subarachnoid-peritoneal shunt
+37,2410,3203,Bilateral endoscopic ligation and crushing of fallopian tubes
+38,63592,1954,"Synovectomy, wrist"
+39,66033,705,Radical glossectomy
+40,32734,3258,Procedure on four or more vessels
+41,69553,2009,"Stereotactic radiosurgery, not otherwise specified"
+42,37749,760,Other operations on fallopian tubes
+43,85113,3312,Removal of intrauterine pack
+44,9782,2063,Other operations on heart and pericardium
+45,01283,814,Transplant from live non-related donor
+46,99657,3366,Uterine artery embolization [UAE] with coils
+47,3749,2117,Freeing of vessel
+48,E9242,868,"Removal of lesion of eyelid, not otherwise specified"
+49,01171,3420,Incision of large intestine
+50,82020,2172,Closure of stoma of large intestine
+51,73029,923,"Other excision of vessels, upper limb vessels"
+52,6069,3475,Other secondary procedures after removal of eyeball
+53,6941,2226,Percutaneous chordotomy
+54,E9309,977,Impedance phlebography
+55,42822,3529,Arthroplasty of metacarpophalangeal and interphalangeal joint with implant
+56,E9978,2280,Closure of stoma of large intestine
+57,72293,1031,Other operations on joint structures
+58,33941,3583,"Biopsy of bone, tarsals and metatarsals"
+59,E8602,2334,Dilation of rectum
+60,31220,1086,Percutaneous abdominal drainage
+61,E8700,3638,"Osteoclasis, radius and ulna"
+62,94883,2389,"Hip bearing surface, metal-on-polyethylene"
+63,72972,1140,Enteral infusion of concentrated nutritional substances
+64,37300,3692,Other repair of kidney
+65,65323,2443,Repair of aneurysm of coronary vessel
+66,99585,1194,"Debridement of nail, nail bed, or nail fold"
+67,E9958,3746,"Microscopic examination of specimen from female genital tract, cell block and Papanicolaou smear"
+68,1552,2497,Closure of other fistula of urethra
+69,7500,1248,"Other surgical occlusion of vessels, aorta, abdominal"
+70,71782,0,X-ray of gravid uterus
+71,64760,2552,Hypnotherapy
+72,33701,1303,Other abdomen tomography
+73,V606,54,Closed [endoscopic] biopsy of large intestine
+74,9042,2606,Repair of blepharoptosis by other levator muscle techniques
+75,6021,1357,Percutaneous aspiration of kidney (pelvis)
+76,66450,108,Other incision of pleura
+77,V2621,2660,Exploration of tendon sheath
+78,86344,1411,Aorta-renal bypass
+79,79382,162,"Other division of bone, radius and ulna"
+80,74334,2715,Hysteroscopy
+81,96902,1466,Unilateral exploration of adrenal field
+82,E8708,217,"Repair of laceration involving lid margin, partial-thickness"
+83,81244,2769,Retroperitoneal pneumogram
+84,80421,1520,"Sinusectomy, not otherwise specified"
+85,01122,271,"Corneal transplant, not otherwise specified"
+86,45933,2823,Menstrual extraction or regulation
+87,61809,1574,Removal of other penetrating foreign body from cervix
+88,E9358,325,Insertion of non-drug-eluting coronary artery stent(s)
+89,64664,2877,Implantation of other internal limb lengthening device
+90,E8225,1629,Exploration of pineal field
+91,V8903,380,Fracture of the turbinates
+92,9626,2932,Replacement of prolapsed umbilical cord
+93,V054,1683,"Application of external fixator device, tarsals and metatarsals"
+94,86359,434,Bursectomy of hand
+95,5951,2986,Other operations on cul-de-sac with graft or prosthesis
+96,36811,1737,Suture of laceration of diaphragm
+97,74306,488,Injection into inner ear
+98,E8032,3040,Other repair of ovary
+99,0839,1791,Surgical correction of prominent ear
+100,7678,543,Revision of lead [electrode]
+101,67522,3095,Insertion of other spinal devices
+102,52104,1846,Intraoperative cholangiogram
+103,94545,597,"Microscopic examination of specimen from skin and other integument, culture and sensitivity"
+104,7268,3149,Repair of arteriovenous fistula
+105,63691,1900,Angiocardiography of left heart structures
+106,E9311,651,Biopsy of periprostatic tissue
+107,38201,3203,"Debridement of open fracture site, phalanges of foot"
+108,94892,1954,Initial insertion of dual-chamber device
+109,09832,705,Laparoscopic simple suture of ovary
+110,V6122,3258,Biopsy of vulva
+111,66712,2009,Biopsy of thymus
+112,72210,760,Other free graft to conjunctiva
+113,6200,3312,Open and other replacement of pulmonary valve
+114,51919,2063,Autologous hematopoietic stem cell transplant without purging
+115,29554,814,Laparoscopic partial cholecystectomy
+116,6280,3366,Appendicostomy
+117,75019,2117,Other operations on ureter
+118,65464,868,Other local excision or destruction of vulva and perineum
+119,09886,3420,Attachment of pedicle or flap graft to lip and mouth
+120,01300,2172,Lysis of intraluminal adhesions of vagina
+121,71980,923,Transplant of intestine
+122,73730,3475,Goniopuncture without goniotomy
+123,65910,2226,Electro-oculogram [EOG]
+124,79319,977,Biopsy of diaphragm
+125,05829,3529,"Bone graft, radius and ulna"
+126,81380,2280,Duhamel resection of rectum
+127,1026,1031,Irrigation of nasal passages
+128,53190,3583,Other fetal monitoring
+129,E8305,2334,Open robotic assisted procedure
+130,61183,1086,"Arthroscopy, unspecified site"
+131,9273,3638,Other insertion of colonic stent(s)
+132,2691,2389,Other x-ray of fallopian tubes and uterus
+133,37551,1140,Iontophoresis
+134,80634,3692,Complete substernal thyroidectomy
+135,V015,2443,Closed [endoscopic] biopsy of large intestine
+136,67650,1194,"Psychologic mental status determination, not otherwise specified"
+137,0931,3746,Transfusion of blood expander
+138,86401,2497,Repair of thymus
+139,65700,1248,Large-to-large intestinal anastomosis
+140,36520,0,Other operations on thoracic duct
+141,71518,2552,Repair of ventricular septal defect with tissue graft
+142,V8702,1303,Dilation of ureteral meatus
+143,6228,54,"Other cervical fusion of the posterior column, posterior technique"
+144,76418,2606,Type IV tympanoplasty
+145,80615,1357,Closed reduction of nasal fracture
+146,67622,108,Pulmonary artery pressure monitoring
+147,67682,2660,"Revision of intestinal stoma, not otherwise specified"
+148,E0094,1411,Aspiration of fallopian tube
+149,E8413,162,Scan of lymphatic system
+150,04110,2715,Other plastic operations on fascia
+151,31239,1466,Endoscopic robotic assisted procedure
+152,94123,217,"Gluteal artery perforator (GAP) flap, free"
+153,5060,2769,Injection or infusion of electrolytes
+154,V510,1520,Other excision of lesion or tissue of lip
+155,24930,271,Dilation of rectum
+156,36801,2823,Ureteroneocystostomy
+157,3535,1574,Ventricular shunt to abdominal cavity and organs
+158,E8261,325,Laparoscopic sigmoidectomy
+159,37701,2877,"Microscopic examination of specimen from operative wound, bacterial smear"
+160,1943,1629,Excision of lesion or tissue of spleen
+161,37212,380,Repair of retinal detachment with cryotherapy
+162,07812,2932,Endoscopic dilation of pancreatic duct
+163,37062,1683,Gastrotomy
+164,34201,434,Full-thickness skin graft to lip and mouth
+165,E0030,2986,Removal of spinal thecal shunt
+166,2931,1737,"Synovectomy, elbow"
+167,81002,488,Excision of other lesion or tissue of spermatic cord and epididymis
+168,1551,3040,Nephroureterectomy
+169,E8387,1791,Repair of laceration of conjunctiva
+170,7273,543,Other high forceps operation
+171,78842,3095,"Arthrotomy for removal of prosthesis without replacement, knee"
+172,36310,1846,"Total ostectomy, carpals and metacarpals"
+173,25639,597,Endoscopic retrograde cholangiography [ERC]
+174,E8614,3149,Other repair of abdominal wall
+175,65200,1900,Repair of pericolostomy hernia
+176,72273,651,Laparoscopic lysis of adhesions of ovary and fallopian tube
+177,7616,3203,Removal of tympanostomy tube
+178,2115,1954,Dental examination
+179,09819,705,"Endarterectomy, upper limb vessels"
+180,9612,3258,"Other local excision or destruction of lesion of joint, hand and finger"
+181,V5339,2009,Other partial thyroidectomy
+182,8054,760,"Other repair or plastic operations on bone, other bones"
+183,2713,3312,Cisternal puncture
+184,7848,2063,Incision of cornea
+185,E8558,814,"Resection of vessel with anastomosis, intracranial vessels"
+186,75015,3366,Other operations on cul-de-sac with graft or prosthesis
+187,6170,2117,Transabdominal proctosigmoidoscopy
+188,74343,868,Nephrectomy of remaining kidney
+189,5902,3420,Tarsometatarsal fusion
+190,01711,2172,Insertion or replacement of epicardial lead [electrode] into epicardium
+191,V692,923,Ventricular shunt to structure in head and neck
+192,7851,3475,"Closed reduction of fracture without internal fixation, tarsals and metatarsals"
+193,37763,2226,Suture of tendon sheath
+194,V2342,977,Other iridectomy
+195,20158,3529,Endoscopy of large intestine through artificial stoma
+196,29595,2280,Endovascular removal of obstruction from head and neck vessel(s)
+197,8243,1031,Other incision of perirenal or periureteral tissue
+198,37158,3583,Open reduction of dislocation of ankle
+199,8871,2334,Other operations on vessels of heart
+200,20940,1086,Injection into bone marrow
+201,V421,3638,Unspecified instrumental delivery
+202,V715,2389,Contrast radiogram of sinus
+203,0302,1140,Other skin graft to lip and mouth
+204,V037,3692,"Root canal, not otherwise specified"
+205,72704,2443,Lysis of corneovitreal adhesions
+206,01393,1194,Suture of laceration of diaphragm
+207,E8030,3746,Aspiration or lavage of nasal sinus through natural ostium
+208,20721,2497,Visual field study
+209,70711,1248,Discission of secondary membrane [after cataract]
+210,E0090,0,Cauterization of hemorrhoids
+211,34210,2552,Stretching of foreskin
+212,9746,1303,Closure of other fistula of kidney
+213,51901,54,Exteriorization of esophageal pouch
+214,64631,2606,"Limb lengthening procedures, humerus"
+215,99554,1357,Disarticulation of shoulder
+216,E9818,108,"Interview and evaluation, described as limited"
+217,E0062,2660,Implantation of cardiomyostimulation system
+218,8430,1411,Suture of laceration of kidney
+219,20072,162,Intrathoracic esophagoesophagostomy
+220,48232,2715,Ultrasonic fragmentation of urinary stones
+221,8744,1466,Other orbitotomy
+222,E9949,217,Character analysis
+223,51663,2769,Excision of thyroglossal duct or tract
+224,3334,1520,Irrigation of ear
+225,80463,271,Repair of spinal meningocele
+226,37934,2823,"Total ostectomy, other bones"
+227,53909,1574,Other repair and plastic operations on trachea
+228,V4572,325,Eye examination under anesthesia
+229,4321,2877,Closure of ureterostomy
+230,73394,1629,Brain temperature monitoring
+231,52105,380,Other operations on skin and subcutaneous tissue
+232,3302,2932,Dilation of cervical canal
+233,67012,1683,Fetal EKG (scalp)
+234,V0481,434,"Microscopic examination of specimen from upper gastrointestinal tract and of vomitus, toxicology"
+235,37812,2986,Formation of other cutaneous ureterostomy
+236,90240,1737,"Retroperitoneal dissection, not otherwise specified"
+237,76074,488,Endoscopic insertion of colonic stent(s)
+238,2396,3040,Alveoloplasty
+239,E9973,1791,"Insertion of total spinal disc prosthesis, lumbosacral"
+240,6982,543,Left heart cardiac catheterization
+241,E9259,3095,Tenotomy of hand
+242,01623,1846,"Wedge osteotomy, femur"
+243,32301,597,"Repair of inguinal hernia with graft or prosthesis, not otherwise specified"
+244,6172,3149,"Phlebography using contrast material, unspecified site"
+245,78461,1900,Manual replacement of inverted uterus
+246,1800,651,Assisting exercise
+247,45379,3203,Shortening procedure on one extraocular muscle
+248,20930,1954,Initial insertion of transvenous leads [electrodes] into atrium and ventricle
+249,1483,705,Replacement of dental packing
+250,60000,3258,Destruction of cranial and peripheral nerves
+251,V812,2009,Anastomosis of kidney
+252,V1022,760,Percutaneous atherectomy of extracranial vessel(s)
+253,57140,3312,Temporary tracheostomy
+254,4590,2063,"Insertion of bone growth stimulator, other bones"
+255,36111,814,"Microscopic examination of specimen from kidney, ureter, perirenal and periureteral tissue, culture and sensitivity"
+256,2139,3366,Magnetic resonance imaging of brain and brain stem
+257,5172,2117,Endovascular (total) embolization or occlusion of head and neck vessels
+258,7382,868,Scan of other sites
+259,V4579,3420,Bilateral nephrectomy
+260,38604,2172,Implantation or replacement of cardiac resynchronization pacemaker pulse generator only [CRT-P]
+261,9473,923,Percutaneous angioplasty of extracranial vessel(s)
+262,V312,3475,Closed biopsy of uterus
+263,3308,2226,Other diagnostic procedures on vulva
+264,63612,977,Autologous hematopoietic stem cell transplant with purging
+265,5778,3529,Destruction of lesion of conjunctiva
+266,9123,2280,Suture of tendon sheath of hand
+267,85313,1031,Incision of mastoid
+268,71854,3583,Open biopsy of stomach
+269,E9872,2334,"Arthrotomy for removal of prosthesis without replacement, hand and finger"
+270,V322,1086,Removal of electronic ureteral stimulator
+271,56402,3638,Other repair of cerebral meninges
+272,94899,2389,Destruction of chorioretinal lesion by implantation of radiation source
+273,71945,1140,Other eyelid repair
+274,9522,3692,Removal of abdominal wall sutures
+275,2103,2443,"Closed reduction of fracture without internal fixation, carpals and metacarpals"
+276,2720,1194,Other soft tissue x-ray of upper limb
+277,63430,3746,"Other arthrotomy, hand and finger"
+278,3548,2497,"Local excision of lesion or tissue of bone, femur"
+279,E8261,1248,Other cataract extraction
+280,3434,0,"Repair of ventricular septal defect with prosthesis, open technique"
+281,7211,2552,Other gastroscopy
+282,33119,1303,Excision of other lesion or tissue of spermatic cord and epididymis
+283,71191,54,Apicoectomy
+284,0819,2606,Cerebral scan
+285,2645,1357,"Other partial ostectomy, tarsals and metatarsals"
+286,41401,108,"Biopsy of mouth, unspecified structure"
+287,0720,2660,"Closed reduction of fracture with internal fixation, humerus"
+288,65301,1411,Contrast laryngogram
+289,V051,162,Other skeletal x-ray of pelvis and hip
+290,2749,2715,Endoscopic transmyocardial revascularization
+291,30530,1466,Cardioplegia
+292,2396,217,Open heart valvuloplasty of pulmonary valve without replacement
+293,75431,2769,Other consultation
+294,95202,1520,Pharyngectomy (partial)
+295,20522,271,Other destruction of lesion of large intestine
+296,V5332,2823,Arthrodesis of other specified joints
+297,2229,1574,Injection into thoracic cavity
+298,7601,325,Episiotomy
+299,E0060,2877,Percutaneous denervation of facet
+300,E8123,1629,"Microscopic examination of specimen from liver, biliary tract, and pancreas, cell block and Papanicolaou smear"
+301,37914,380,Local perfusion of small intestine
+302,9944,2932,Other incision of anus
+303,86329,1683,Closed reduction of nasal fracture
+304,20263,434,Removal of impacted feces
+305,38163,2986,Percutaneous atherectomy of intracranial vessel(s)
+306,9646,1737,Closure of anal fistula
+307,99674,488,Unilateral injection into breast for augmentation
+308,V717,3040,Phlebography of veins of head and neck using contrast material
+309,1725,1791,Total excision of pineal gland
+310,38422,543,Incision of lacrimal canaliculi
+311,92311,3095,Spinal tap
+312,8711,1846,Other prostatectomy
+313,53560,597,Insertion of catheter into spinal canal for infusion of therapeutic or palliative substances
+314,7014,3149,Destruction of lesion of cervix by cauterization
+315,4612,1900,Cyclodialysis
+316,38601,651,Closed reduction of dislocation of wrist
+317,71624,3203,"Endarterectomy, lower limb arteries"
+318,9624,1954,Pericardiectomy
+319,98989,705,Central venous pressure monitoring
+320,07819,3258,Other injection into sympathetic nerve or ganglion
+321,E8440,2009,Laparoscopic abdominoperineal resection of the rectum
+322,V173,760,Operative esophagoscopy by incision
+323,V010,3312,Bilateral radical mastectomy
+324,20196,2063,Open reduction of dislocation of ankle
+325,V632,814,Biopsy of heart
+326,2136,3366,Suture of capsule or ligament of ankle and foot
+327,9068,2117,Implantation or replacement of carotid sinus stimulation lead(s) only
+328,42610,868,Excision of lesion or tissue of gum
+329,V7791,3420,Hysterotomy
+330,73721,2172,"Laparoscopic bilateral repair of inguinal hernia with graft or prosthesis, not otherwise specified"
+331,9803,923,Other repair of rectum
+332,E9921,3475,Reopening of craniotomy site
+333,23332,2226,Other endoscopy of small intestine
+334,33909,977,Other mechanical vitrectomy
+335,3313,3529,Other cystotomy
+336,0998,2280,"Open reduction of fracture without internal fixation, tibia and fibula"
+337,51901,1031,Intraoperative cholangiogram
+338,3541,3583,Type V tympanoplasty
+339,52567,2334,Extraction of milk from lactating breast
+340,53420,1086,Other soft tissue x-ray of lower limb
+341,82000,3638,Aorta-subclavian-carotid bypass
+342,01710,2389,"Other immobilization, pressure, and attention to wound"
+343,75320,1140,"Closed heart valvotomy, aortic valve"
+344,V9120,3692,Other excision of pterygium
+345,94418,2443,Biopsy of skull
+346,67500,1194,Removal of internal biventricular heart replacement system
+347,37872,3746,Audiological evaluation
+348,33393,2497,Revision of other cutaneous ureterostomy
+349,9123,1248,Control of epistaxis by cauterization (and packing)
+350,V532,0,Implantation of diaphragmatic pacemaker
+351,8170,2552,Biopsy of lacrimal sac
+352,99555,1303,"Microscopic examination of specimen from spleen and of bone marrow, culture"
+353,36275,54,Laparoscopic multiple segmental resection of large intestine
+354,79519,2606,Delayed closure of granulating abdominal wound
+355,94842,1357,Thoracoscopic lung biopsy
+356,80303,108,Other hand muscle transfer or transplantation
+357,64842,2660,"Microscopic examination of specimen from upper gastrointestinal tract and of vomitus, other microscopic examination"
+358,E8614,1411,"Other repair or plastic operations on bone, unspecified site"
+359,7060,162,Biopsy of bone marrow
+360,94841,2715,Other bunionectomy
+361,9578,1466,Biopsy of external ear
+362,9019,217,Other repair and plastic operations on salivary gland or duct
+363,78072,2769,"Interview and evaluation, described as limited"
+364,56889,1520,Laparoscopic partial cholecystectomy
+365,05379,271,Excision of tonsil tag
+366,0980,2823,Other incision of facial bone
+367,53541,1574,Diagnostic ultrasound of head and neck
+368,34711,325,"Reconstruction of eyelid involving lid margin, partial-thickness"
+369,67000,2877,Other turbinectomy
+370,37732,1629,"Other arthrotomy, hip"
+371,V7284,380,Elevation of skull fracture fragments
+372,71615,2932,"Implantation or replacement of cochlear prosthetic device, not otherwise specified"
+373,81113,1683,"Debridement of open fracture site, other specified bone"
+374,37123,434,Teleradiotherapy of other particulate radiation
+375,3317,2986,"Arthrotomy for removal of prosthesis without replacement, wrist"
+376,80628,1737,Pyelostomy
+377,66414,488,Correction of ureteropelvic junction
+378,4378,3040,Intravascular pressure measurement of coronary arteries
+379,7835,1791,Open chest coronary artery angioplasty
+380,38901,543,Small bowel series
+381,E9345,3095,Suture of laceration of bladder
+382,87269,1846,Replacement of joint of foot and toe
+383,8900,597,Myotomy of sigmoid colon
+384,69271,3149,Monitoring of cardiac output by oxygen consumption technique
+385,7511,1900,Injection of therapeutic substance into testis
+386,V1529,651,"Microscopic examination of specimen from ear, nose, throat, and larynx, parasitology"
+387,1305,3203,"Bone graft, tarsals and metatarsals"
+388,E8329,1954,Thoracoscopic partial excision of thymus
+389,75537,705,Cerebral scan
+390,1914,3258,Other and unspecified repair of ventricular septal defect
+391,71904,2009,Other diagnostic procedures on pharynx
+392,1569,760,Reduction of intussusception of alimentary tract
+393,37250,3312,"Removal of lesion of eyelid, not otherwise specified"
+394,99687,2063,Repair of retinal tear by photocoagulation of unspecified type
+395,78452,814,"Application of external fixator device, other bones"
+396,88022,3366,Salpingo-uterostomy
+397,78609,2117,Other operations on esophagus
+398,79581,868,Other and unspecified total abdominal hysterectomy
+399,36362,3420,Reopening of wound of thyroid field
+400,E9329,2172,Extracorporeal hepatic assistance
+401,7678,923,"Implantation or replacement of automatic cardioverter/defibrillator, total system [AICD]"
+402,01655,3475,Other mastoidectomy
+403,75558,2226,Other suprapubic cystostomy
+404,80175,977,Bilateral adrenalectomy
+405,78009,3529,Other operations on uvula
+406,71929,2280,"Revision of knee replacement, femoral component"
+407,6944,1031,Computerized axial tomography of kidney
+408,9630,3583,Radical prostatectomy
+409,7602,2334,Injection of sclerosing agent into vein
+410,E0049,1086,Insertion of two vascular stents
+411,V273,3638,"Open reduction of fracture without internal fixation, phalanges of hand"
+412,8025,2389,Other diagnostic procedures on seminal vesicles
+413,42981,1140,"Excision of lesion of eye, unspecified structure"
+414,V9012,3692,Cardiotomy
+415,71994,2443,Other excision or destruction of lesion or tissue of larynx
+416,01710,1194,Other repair of punctum
+417,37456,3746,Control of hemorrhage after tonsillectomy and adenoidectomy
+418,52411,2497,"Arthroscopy, ankle"
+419,94883,1248,"Biopsy of bone, tibia and fibula"
+420,8364,0,Arthrodesis of unspecified joint
+421,E8764,2552,Tracheoscopy through artificial stoma
+422,52541,1303,Hemilaryngectomy
+423,72709,54,"Microscopic examination of specimen from lymph node and of lymph, other microscopic examination"
+424,01650,2606,Other graft of esophagus
+425,9517,1357,Other septoplasty
+426,34570,108,Suture of capsule or ligament of other lower extremity
+427,1622,2660,Suture of laceration of scrotum and tunica vaginalis
+428,V3401,1411,Percutaneous aspiration of liver
+429,65452,162,Replacement of transvenous atrial and/or ventricular lead(s) [electrode]
+430,75532,2715,Other incision of facial bone
+431,2454,1466,"Extracorporeal shockwave lithotripsy [ESWL] of the kidney, ureter and/or bladder"
+432,99981,217,Restoration of tooth by filling
+433,94102,2769,"Osteopathic manipulative treatment using high-velocity, low-amplitude forces"
+434,7804,1520,Other computerized axial tomography
+435,72879,271,Incision of spermatic cord
+436,V555,2823,Repair of unspecified septal defect of heart with tissue graft
+437,70522,1574,Implantation or insertion of biventricular external heart assist system
+438,V773,325,Dilation of ureteral meatus
+439,48811,2877,Insertion of vessel-to-vessel cannula
+440,2336,1629,"Other operations on adrenal glands, nerves, and vessels"
+441,E9538,380,Lysis of adhesions of trachea or larynx
+442,2569,2932,"Ligation and stripping of varicose veins, unspecified site"
+443,7231,1683,Open reduction of mandibular fracture
+444,37931,434,Suture of laceration of duodenum
+445,04100,2986,"Limb shortening procedures, radius and ulna"
+446,28801,1737,"Microscopic examination of specimen from spleen and of bone marrow, bacterial smear"
+447,E9798,488,Other facilitation of intraocular circulation
+448,E9348,3040,Replantation of scalp
+449,4219,1791,Destruction of hemorrhoids by cryotherapy
+450,76408,543,Electrocardiogram
+451,71987,3095,Injection of anticoagulant
+452,0622,1846,Percutaneous ablation of liver lesion or tissue
+453,07042,597,Quadricepsplasty
+454,53200,3149,Other incision of brain
+455,4379,1900,"Microscopic examination of specimen from female genital tract, other microscopic examination"
+456,05322,651,Other partial thyroidectomy
+457,080,3203,"Microscopic examination of specimen from female genital tract, parasitology"
+458,1304,1954,Replacement of (naso-)gastric or esophagostomy tube
+459,24931,705,Cardiac retraining
+460,80853,3258,Freeing of vessel
+461,36860,2009,Ventricular shunt to extracranial site NEC
+462,49381,760,"Repair of diaphragmatic hernia with thoracic approach, not otherwise specified"
+463,V681,3312,Removal of orbital implant
+464,9473,2063,Removal of tube from large intestine or appendix
+465,20228,814,Insertion or replacement of (cement) spacer
+466,5813,3366,Local excision of rectal lesion or tissue
+467,7012,2117,Intravascular imaging of non-coronary vessel(s) by optical coherence tomography [OCT]
+468,9049,868,High-dose infusion interleukin-2 [IL-2]
+469,90224,3420,Unilateral lung transplantation
+470,01220,2172,Endoscopic dilation of ampulla and biliary duct
+471,66231,923,"Other arthrotomy, hip"
+472,75731,3475,"Sequestrectomy, radius and ulna"
+473,80452,2226,Removal of foreign body from posterior segment of eye with use of magnet
+474,0400,977,Tenotomy of hand
+475,V0182,3529,Other stapedectomy
+476,67000,2280,Arteriography of other intrathoracic vessels
+477,94886,1031,Anal fistulotomy
+478,80485,3583,"Arthroscopy, unspecified site"
+479,20106,2334,"Microscopic examination of specimen from musculoskeletal system and of joint fluid, culture"
+480,71619,1086,Full-thickness skin graft to other sites
+481,71226,3638,Injection of therapeutic substance into testis
+482,7923,2389,Exploration of tendon sheath
+483,5601,1140,"Diagnostic procedures on bone, not elsewhere classified, other bones"
+484,0840,3692,"Application of external fixator device, carpals and metacarpals"
+485,20942,2443,Division of sympathetic nerve or ganglion
+486,29013,1194,Other repair and plastic operations on tongue
+487,6385,3746,Incision of external auditory canal
+488,8449,2497,Heterograft to skin
+489,45981,1248,Removal of intraluminal foreign body from trachea and bronchus without incision
+490,10089,0,Administration of tetanus toxoid
+491,76389,2552,Laparoscopic gastric restrictive procedure
+492,6280,1303,Formation of cutaneous uretero-ileostomy
+493,01303,54,"Other excision of vessels, upper limb vessels"
+494,V7611,2606,Segmental osteoplasty [osteotomy] of maxilla
+495,80702,1357,Removal of cholecystostomy tube
+496,V5973,108,Recreation therapy
+497,65110,2660,Fusion or refusion of 4-8 vertebrae
+498,1638,1411,Other speech training and therapy
+499,25208,162,"Partial excision of pituitary gland, unspecified approach"
+500,75249,2715,Biopsy of spinal cord or spinal meninges
+501,30111,1466,Bursectomy
+502,V1505,217,Closure of nephrostomy and pyelostomy
+503,52569,2769,Percutaneous hysterogram
+504,81344,1520,Other revision of stapedectomy
+505,71292,271,Implantation of prosthetic device of leg
+506,30759,2823,Biopsy of diaphragm
+507,57431,1574,Tattooing of cornea
+508,01393,325,Laparoscopic lysis of perivesical adhesions
+509,20492,2877,"Removal of lesion of eyelid, not otherwise specified"
+510,2320,1629,"Lower limb amputation, not otherwise specified"
+511,33510,380,Other cataract extraction
+512,1175,2932,Infusion of vasopressor agent
+513,33390,1683,Contrast pancreatogram
+514,E8261,434,Arteriography of cerebral arteries
+515,2528,2986,Excision of ectopic breast tissue
+516,2849,1737,Other interview and evaluation
+517,2662,488,Repair of retinal tear by photocoagulation of unspecified type
+518,55092,3040,"Removal of carotid sinus stimulation device, total system"
+519,37274,1791,"Open reduction of fracture with internal fixation, unspecified site"
+520,5756,543,Bilateral exploration of adrenal field
+521,9791,3095,Removal of other device from urinary system
+522,V059,1846,Closed [percutaneous] biopsy of seminal vesicles
+523,69581,597,Formation of cranial bone flap
+524,94452,3149,Quadricepsplasty
+525,75245,1900,Excision of tonsil tag
+526,34681,651,Closed biopsy of uterus
+527,9950,3203,"Other excision of vessels, abdominal arteries"
+528,95914,1954,Implantation of prosthetic device of arm
+529,7018,705,"Implantation of cardiac resynchronization pacemaker without mention of defibrillation, total system [CRT-P]"
+530,81013,3258,Other respiratory procedures
+531,74363,2009,Other revision of exenteration cavity
+532,86354,760,Repair of rectocele with graft or prosthesis
+533,3014,3312,Arteriography of placenta
+534,80020,2063,Closure of external fistula of trachea
+535,05881,814,Local excision of rectal lesion or tissue
+536,75551,3366,Incision of perianal abscess
+537,9757,2117,Surgical correction of prominent ear
+538,74720,868,Other and unspecified radical vaginal hysterectomy
+539,65491,3420,Other diagnostic procedures on liver
+540,81310,2172,Salpingo-oophorostomy
+541,E8980,923,"Removal of implanted devices from bone, unspecified site"
+542,2888,3475,"Synovectomy, foot and toe"
+543,52661,2226,"Sinusectomy, not otherwise specified"
+544,01334,977,"Microscopic examination of specimen from musculoskeletal system and of joint fluid, bacterial smear"
+545,30989,3529,Laparoscopic cecectomy
+546,85192,2280,Reduction of torsion of testis or spermatic cord
+547,53111,1031,Other incision with drainage of skin and subcutaneous tissue
+548,V1084,3583,Removal of artificial implant from cornea
+549,20034,2334,"Microscopic examination of specimen from liver, biliary tract, and pancreas, parasitology"
+550,37033,1086,Urethral sphincter electromyogram
+551,E9290,3638,Anal cerclage
+552,62211,2389,Revision of mastoidectomy
+553,4370,1140,Replacement of prolapsed umbilical cord
+554,36322,3692,"Microscopic examination of specimen from nervous system and of spinal fluid, bacterial smear"
+555,30650,2443,Other operations on vessels
+556,01663,1194,Resection of exteriorized segment of large intestine
+557,36053,3746,Excision of lesion of lacrimal gland
+558,V1522,2497,Other scleral fistulizing procedure
+559,6926,1248,Placental scan
+560,69276,0,"Other incision, excision, and destruction of inner ear"
+561,30392,2552,Other counseling
+562,E8322,1303,"Osteoclasis, humerus"
+563,27784,54,Closure of stoma of small intestine
+564,52105,2606,Other and unspecified segmental resection of lung
+565,56489,1357,Diagnostic ultrasound of heart
+566,01221,108,Other procedures for creation of esophagogastric sphincteric competence
+567,981,2660,Transurethral destruction of prostate tissue by microwave thermotherapy
+568,7706,1411,Laparoscopic repair of indirect inguinal hernia with graft or prosthesis
+569,01385,162,"Synovectomy, shoulder"
+570,63380,2715,Other miscellaneous procedures
+571,V180,1466,Implantation of automatic cardioverter/defibrillator pulse generator only
+572,9912,217,Removal of spinal thecal shunt
+573,64862,2769,Antesternal esophageal anastomosis with interposition of colon
+574,3532,1520,Other operations on perirenal or perivesical tissue
+575,1511,271,"Excision of lacrimal gland, not otherwise specified"
+576,36455,2823,Repair of spinal myelomeningocele
+577,7233,1574,"Intestinal anastomosis, not otherwise specified"
+578,9173,325,Other and unspecified pneumonectomy
+579,38000,2877,Administration of psychologic test
+580,2549,1629,Other control of hemorrhage of stomach or duodenum
+581,79095,380,Injection or infusion of thrombolytic agent
+582,41012,2932,Turbinectomy by diathermy or cryosurgery
+583,V4289,1683,Closed reduction of dislocation of hip
+584,6819,434,Large-to-large intestinal anastomosis
+585,85140,2986,"Removal of implanted devices from bone, other bones"
+586,75560,1737,Implantation or revision of artificial anal sphincter
+587,0846,488,"Microscopic examination of peritoneal and retroperitoneal specimen, culture and sensitivity"
+588,9941,3040,Lengthening procedure on one extraocular muscle
+589,E9220,1791,Phlebography of other Intra-Abdominal veins using contrast material
+590,2312,543,"Total excision of pituitary gland, unspecified approach"
+591,52322,3095,Laparoscopic ablation of renal lesion or tissue
+592,7535,1846,Repair of current obstetric laceration of rectum and sphincter ani
+593,1630,597,Replacement of stent (tube) in biliary or pancreatic duct
+594,64211,3149,Gastric lavage
+595,80166,1900,Bunionectomy with soft tissue correction and osteotomy of the first metatarsal
+596,20310,651,"Transverse rectus abdominis myocutaneous (TRAM) flap, pedicled"
+597,V1051,3203,Suture of muscle or fascia of hand
+598,95892,1954,Arthrodesis of shoulder
+599,80379,705,"Synovectomy, ankle"
+600,80086,3258,Administration of poliomyelitis vaccine
+601,5999,2009,Laparoscopic partial cholecystectomy
+602,74193,760,"Removal of implanted devices from bone, carpals and metacarpals"
+603,80606,3312,"Spinal fusion, not otherwise specified"
+604,3575,2063,"Implantation or replacement of carotid sinus stimulation device, total system"
+605,3556,814,"Injection of other agent, except neurolytic"
+606,99667,3366,Excision of inguinal lymph node
+607,73072,2117,Closed [percutaneous] [needle] biopsy of kidney
+608,34889,868,Other myringotomy
+609,1919,3420,Endoscopic excision or destruction of lesion or tissue of anus
+610,34700,2172,"Prescription, fitting, and dispensing of contact lens"
+611,3231,923,Repair of corneal laceration or wound with conjunctival flap
+612,71228,3475,Closure of other fistula of urethra
+613,99564,2226,"Bone graft, radius and ulna"
+614,3308,977,Other repair of kidney
+615,67414,3529,Repair of blood vessel with tissue patch graft
+616,94521,2280,"Application of external fixator device, tarsals and metatarsals"
+617,29600,1031,Other operations on pharynx
+618,31535,3583,"Microscopic examination of specimen from upper gastrointestinal tract and of vomitus, toxicology"
+619,20881,2334,Laparoscopic cecectomy
+620,52521,1086,"Closure of intestinal stoma, not otherwise specified"
+621,9069,3638,Laparoscopic repair of umbilical hernia with graft or prosthesis
+622,0029,2389,Lower GI series
+623,05440,1140,"Other partial ostectomy, carpals and metacarpals"
+624,85315,3692,Replacement or repair of other implantable component of (total) replacement heart system
+625,2246,2443,Control of (postoperative) hemorrhage of prostate
+626,30924,1194,Lingual frenotomy
+627,V823,3746,"Intravascular pressure measurement, other specified and unspecified vessels"
+628,7105,2497,"Microscopic examination of specimen from unspecified site, parasitology"
+629,83912,1248,Endoscopic retrograde cholangiography [ERC]
+630,V762,0,"Debridement of open fracture site, phalanges of hand"
+631,37642,2552,Total body perfusion
+632,80152,1303,Other specified osteopathic manipulative treatment
+633,2702,54,Repair of vertebral fracture
+634,6018,2606,Other glossotomy
+635,32727,1357,Replacement of tube or enterostomy device of small intestine
+636,94841,108,Video and radio-telemetered electroencephalographic monitoring
+637,29981,2660,Insertion or replacement of skull tongs or halo traction device
+638,77084,1411,Repair of blepharoptosis by resection or advancement of levator muscle or aponeurosis
+639,67322,162,Laser interstitial thermal therapy [LITT] of lesion or tissue of liver under guidance
+640,04082,2715,"Repair of hip, not elsewhere classified"
+641,1883,1466,Lobotomy and tractotomy
+642,29011,217,Endoscopic transmyocardial revascularization
+643,34673,2769,Other cataract extraction
+644,5692,1520,"Closed reduction of fracture without internal fixation, carpals and metacarpals"
+645,94423,271,Laparoscopic gastroplasty
+646,01195,2823,Other plastic operations on tendon
+647,38841,1574,Anal fistulectomy
+648,64252,325,Ventricular shunt to circulatory system
+649,1020,2877,Percutaneous transmyocardial revascularization
+650,V6545,1628,Complete glossectomy
+651,0830,380,"Sequestrectomy, other bones"
+652,52141,2932,Gastrointestinal scan and radioisotope function study
+653,E9265,1683,Other tenoplasty of hand
+654,20160,434,Open heart valvuloplasty of tricuspid valve without replacement
+655,E9172,2986,"Application of external fixator device, other bones"
+656,7840,1737,Removal of (cement) spacer
+657,04119,488,Other injection into sympathetic nerve or ganglion
+658,83914,3040,Repair of scleral fistula
+659,1023,1791,Right heart cardiac catheterization
+660,09040,543,Contrast radiogram of mammary ducts
+661,V2622,3095,Extracorporeal shockwave lithotripsy of other sites
+662,82533,1846,Unilateral extended simple mastectomy
+663,7592,597,Destruction of chorioretinal lesion by cryotherapy
+664,V5482,3149,Division of nerves to adrenal glands
+665,83401,1900,Insertion of therapeutic device into uterus
+666,E9308,651,"Laparoscopic bilateral repair of inguinal hernia, one direct and one indirect, with graft or prosthesis"
+667,64271,3203,Other partial dacryoadenectomy
+668,75619,1954,"Sequestrectomy, humerus"
+669,V2639,705,Percutaneous vertebroplasty
+670,2709,3258,"Microscopic examination of specimen from eye, toxicology"
+671,32711,2009,"Root canal, not otherwise specified"
+672,00324,760,Other partial laryngectomy
+673,75553,3312,Other and unspecified partial excision of large intestine
+674,5253,2063,"Microscopic examination of specimen from musculoskeletal system and of joint fluid, culture"
+675,1579,814,Other dental x-ray
+676,24241,3366,Intubation of nasolacrimal duct
+677,5831,2117,Proctosigmoidoscopy through artificial stoma
+678,E8356,868,Replantation of scalp
+679,5261,3420,Removal of thoracotomy tube or pleural cavity drain
+680,65901,2172,"Biopsy of joint structure, wrist"
+681,73000,923,Exteriorization of esophageal pouch
+682,0501,3475,Repair of cystocele and rectocele with graft or prosthesis
+683,1308,2226,Training in use of prosthetic or orthotic device
+684,5601,977,(Aorto)coronary bypass of two coronary arteries
+685,27703,3529,"Free skin graft, not otherwise specified"
+686,20066,2280,Total body perfusion
+687,37274,1031,Other soft tissue x-ray of abdominal wall
+688,V422,3583,"Microscopic examination of specimen from lymph node and of lymph, bacterial smear"
+689,261,2334,"Other arthrotomy, wrist"
+690,8940,1086,Abdominal proctopexy
+691,86503,3638,"Other arthrotomy, elbow"
+692,2160,2389,Excision of cystic duct remnant
+693,84840,1140,Ureteroneocystostomy
+694,6924,3692,Assisting exercise
+695,90220,2443,"Microscopic examination of specimen from nervous system and of spinal fluid, cell block and Papanicolaou smear"
+696,E8359,1194,Removal of other urinary drainage device
+697,9947,3746,"Eye examination, not otherwise specified"
+698,79673,2497,Revision of anastomosis of small intestine
+699,5832,1248,Vaccination against cholera
+700,E8121,0,Other high forceps operation
+701,65601,2552,Skeletal x-ray of ankle and foot
+702,V4512,1303,Radical maxillary antrotomy
+703,E8310,54,Complete substernal thyroidectomy
+704,1254,2606,Other lysis of perirenal or periureteral adhesions
+705,V6103,1357,"Bilateral partial salpingectomy, not otherwise specified"
+706,94887,108,"Revision of knee replacement, patellar component"
+707,99709,2660,Negative-contrast cardiac roentgenography
+708,29535,1411,Drainage of appendiceal abscess
+709,9105,162,Other diagnostic procedures on pancreas
+710,71294,2715,"Closed reduction of fracture with internal fixation, tarsals and metatarsals"
+711,36789,1466,Control of epistaxis by (transantral) ligation of the maxillary artery
+712,96500,217,"Other arthrotomy, foot and toe"
+713,4820,2769,Repair of blepharoptosis by tarsal technique
+714,E8704,1520,Presacral sympathectomy
+715,9081,271,Vaccination against cholera
+716,V518,2823,Closed [endoscopic] biopsy of larynx
+717,78631,1574,Closed [needle] biopsy of salivary gland or duct
+718,V5972,325,Revision of arteriovenous shunt for renal dialysis
+719,38589,2877,Other partial cholecystectomy
+720,1339,1629,Incision of prostate
+721,67120,380,Removal of other vaginal pessary
+722,01802,2932,Cesarean section of other specified type
+723,E9370,1683,Excision of intervertebral disc
+724,04101,434,Replacement of automatic cardioverter/defibrillator pulse generator only
+725,01306,2986,Replacement of ventricular shunt
+726,71233,1737,Scraping of cornea for smear or culture
+727,80483,488,Other nonoperative cardiac and vascular measurements
+728,E8355,3040,Correction of ureteropelvic junction
+729,V5812,1791,Suture of laceration of bronchus
+730,9515,543,"Revision or replacement of artificial spinal disc prosthesis, cervical"
+731,E8063,3095,"Microscopic examination of specimen from skin and other integument, culture"
+732,56882,1846,"Diagnostic procedures on bone, not elsewhere classified, femur"
+733,V1229,597,"Other excision of vessels, other vessels of head and neck"
+734,8091,3149,Other hernia repair
+735,V5402,1900,Sphenoidectomy
+736,59982,651,"Other diagnostic procedures on chest wall, pleura, and diaphragm"
+737,5371,3203,"Other excision of vessels, abdominal veins"
+738,72211,1954,"Ureterectomy, not otherwise specified"
+739,V5414,705,Other suture of muscle or fascia
+740,1746,3258,Total esophagectomy
+741,20950,2009,Open reduction of dislocation of elbow
+742,71221,760,Reverse total shoulder replacement
+743,28522,3312,Other operations on spinal cord and spinal canal structures
+744,41000,2063,"Removal of implanted devices from bone, femur"
+745,55229,814,Carotid pulse tracing with ECG lead
+746,75316,3366,Diagnostic aspiration of anterior chamber of eye
+747,36541,2117,"Routine chest x-ray, so described"
+748,V736,868,Thumb reattachment
+749,53789,3420,"Open reduction of fracture without internal fixation, carpals and metacarpals"
+750,28243,2172,Contrast laryngogram
+751,20266,923,Total repair of tetralogy of fallot
+752,81350,3475,Other skeletal x-ray
+753,V5864,2226,"Debridement of open fracture site, humerus"
+754,7141,977,"Bone marrow transplant, not otherwise specified"
+755,66491,3529,Partial ventriculectomy
+756,V1090,2280,Other operations on sphincter of Oddi
+757,5921,1031,"Transverse rectus abdominis myocutaneous (TRAM) flap, free"
+758,E9379,3583,Removal of intraluminal foreign body from urethra without incision
+759,38522,2334,"Microscopic examination of specimen from eye, cell block and Papanicolaou smear"
+760,7676,1086,Thoracoscopic pneumonectomy
+761,5521,3638,Biopsy of extraocular muscle or tendon
+762,79001,2389,Creation of septal defect in heart
+763,2364,1140,Fixation of small intestine to abdominal wall
+764,9752,3692,Hyperthermia for treatment of cancer
+765,E9883,2443,Percutaneous hepatic cholangiogram
+766,66912,1194,"Excision or destruction of breast tissue, not otherwise specified"
+767,1903,3746,Complete thyroidectomy
+768,95901,2497,Removal of dental packing
+769,37843,1248,Replacement of prolapsed umbilical cord
+770,30492,0,Orbitotomy with bone flap
+771,81113,2552,Transsacral rectosigmoidectomy
+772,73679,1303,"Other operations on carotid body, carotid sinus and other vascular bodies"
+773,9781,54,Other intrathoracic esophagocolostomy
+774,65200,2606,"Local excision of lesion or tissue of bone, patella"
+775,37205,1357,Closed reduction of dislocation of elbow
+776,V422,108,Transplantation of spermatic cord
+777,85301,2660,Retrograde pyelogram
+778,E9909,1411,"Other partial ostectomy, other bones"
+779,V3901,162,Dark adaptation study
+780,71865,2715,Type IV tympanoplasty
+781,56030,1466,"Other division of bone, radius and ulna"
+782,5855,217,Colonoscopy
+783,65141,2769,Other incidental appendectomy
+784,32361,1520,Open and other partial gastrectomy
+785,38105,271,Other operations on cul-de-sac
+786,71990,2823,Removal of tracheostomy tube
+787,86353,1574,"Resection of vessel with anastomosis, abdominal veins"
+788,E8339,325,Repair of endocardial cushion defect with prosthesis
+789,E0120,2877,Removal of carotid sinus stimulation pulse generator only
+790,56203,1629,Other repair of rectum
+791,37102,380,Suture of laceration of ureter
+792,64650,2932,Other epilation of eyelid
+793,E8111,1683,Goniotomy without goniopuncture
+794,36618,434,Fusion or refusion of 4-8 vertebrae
+795,1562,2986,Repair of pericolostomy hernia
+796,E9130,1737,"Wedge osteotomy, tibia and fibula"
+797,5187,488,Other glossotomy
+798,V0752,3040,Bilateral adrenalectomy
+799,2441,1791,"Other arthrotomy, elbow"
+800,17322,543,Obliteration of vaginal vault
+801,38333,3095,"Osteoclasis, femur"
+802,99529,1846,"Microscopic examination of specimen from liver, biliary tract, and pancreas, culture"
+803,9594,597,Nephroureterectomy
+804,20701,3149,Other repair of scleral staphyloma
+805,0362,1900,Myringoplasty
+806,E9471,651,Incision with removal of foreign body or device from skin and subcutaneous tissue
+807,E8783,3203,Allogeneic bone marrow transplant without purging
+808,E0199,1954,Removal of abdominal wall sutures
+809,81110,705,Replacement of stent (tube) in biliary or pancreatic duct
+810,09485,3258,Partial excision of pineal gland
+811,V6542,2009,Ocular prosthetics
+812,0840,760,"Unspecified operation on bone injury, carpals and metacarpals"
+813,27481,3312,Other repair of pancreas
+814,E9302,2063,Other operations on diaphragm
+815,29572,814,Fetal blood sampling and biopsy
+816,2101,3366,Arthrodesis of knee
+817,9820,2117,Other operations on sphincter of Oddi
+818,81202,868,Other exenteration of orbit
+819,71844,3420,Closed [percutaneous] [needle] biopsy of lung
+820,01793,2172,Implantation of diaphragmatic pacemaker
+821,80232,923,Application or administration of an adhesion barrier substance
+822,52120,3475,Open biopsy of bronchus
+823,1360,2226,Insertion of indwelling urinary catheter
+824,20160,977,"Endarterectomy, other thoracic vessels"
+825,9529,3529,Decortication of lung
+826,V5427,2280,"Other diagnostic procedures on perirenal tissue, perivesical tissue, and retroperitoneum"
+827,23330,1031,Other incision of skin and subcutaneous tissue
+828,81244,3583,Partial sialoadenectomy
+829,66424,2334,"Closed reduction of fracture with internal fixation, unspecified site"
+830,80501,1086,"Other diagnostic procedures on iris, ciliary body, sclera, and anterior chamber"
+831,72706,3638,Other x-ray of epididymis and vas deferens
+832,E8688,2389,Peritoneal lavage
+833,3575,1140,"Microscopic examination of specimen from operative wound, bacterial smear"
+834,7149,3692,"X-ray, other and unspecified"
+835,V6801,2443,"Diagnostic procedures on bone, not elsewhere classified, patella"
+836,V9010,1194,Other cataract extraction
+837,0740,3746,Other and unspecified robotic assisted procedure
+838,01664,2497,Other reimplantation of ovary
+839,E9521,1248,"Closed reduction of separated epiphysis, femur"
+840,5856,0,"Sequestrectomy, scapula, clavicle, and thorax [ribs and sternum]"
+841,1898,2552,Insertion of esophageal obturator airway
+842,V046,1303,Thoracoscopic segmental resection of lung
+843,8280,54,Transplantation of spermatic cord
+844,E8741,2606,Other repair of elbow
+845,82532,1357,Closed [percutaneous] [needle] biopsy of thyroid gland
+846,7202,108,Other specified instrumental delivery
+847,6944,2660,Other diagnostic procedures on kidney
+848,86231,1411,Percutaneous balloon valvuloplasty
+849,37275,162,Insertion of three vascular stents
+850,9854,2715,Surgical correction of inverted uterus
+851,99671,1466,Radical electrocoagulation of rectal lesion or tissue
+852,1304,217,Transcatheter embolization for gastric or duodenal bleeding
+853,8604,2769,Closure of salivary fistula
+854,71237,1520,Other cholecystotomy
+855,29602,271,Lingual frenectomy
+856,63531,2823,"Repair of hip, not elsewhere classified"
+857,37142,1574,Radical subtotal pancreatectomy
+858,37581,325,Suture of laceration of larynx
+859,43884,2877,Closure of other fistula of kidney
+860,43842,1629,Removal of nasal packing
+861,34403,380,Other plastic repair of palate
+862,78967,2932,"Arthroscopy, wrist"
+863,20177,1683,Evacuation of obstetrical incisional hematoma of perineum
+864,83102,434,Submucous resection of nasal septum
+865,81343,2986,Release of urethral stricture
+866,73395,1737,Removal of intraluminal foreign body from nose without incision
+867,V5973,488,Destruction of chorioretinal lesion by implantation of radiation source
+868,7836,3040,Vesicostomy
+869,1659,1791,Open mediastinal biopsy
+870,37149,543,"Bronchoscopic bronchial thermoplasty, ablation of airway smooth muscle"
+871,71210,3095,Proctostomy
+872,V190,1846,Intermittent skeletal traction
+873,37401,597,Low forceps operation with episiotomy
+874,7093,3149,"Excision of bone for graft, carpals and metacarpals"
+875,65250,1900,Transabdominal gastroscopy
+876,03810,651,Removal of intraocular foreign body from anterior segment of eye without use of magnet
+877,74356,3203,Biopsy of anus
+878,V2386,1954,Carporadial fusion
+879,94522,705,Laparoscopic cecectomy
+880,V103,3258,Supersaturated oxygen therapy
+881,E9518,2009,Ligation of dermal appendage
+882,0783,760,Reimplantation of aberrant renal vessel
+883,94539,3312,Retrobulbar injection of therapeutic agent
+884,73004,2063,"Dorsal and dorsolumbar fusion of the anterior column, anterior technique"
+885,36511,814,Other forcible correction of musculoskeletal deformity
+886,77989,3366,Other tomography of head
+887,52300,2117,"Resection of vessel with replacement, upper limb vessels"
+888,27482,868,"Open reduction of fracture with internal fixation, phalanges of foot"
+889,76070,3420,Hemilaryngectomy
+890,E9393,2172,Continuous intra-arterial blood gas monitoring
+891,V7647,923,Ovarian denervation
+892,53410,3475,Continent ileostomy
+893,7586,2226,Suprapubic sling operation
+894,99559,977,Administration of diphtheria toxoid
+895,5288,3529,Control of epistaxis by anterior nasal packing
+896,78659,2280,Other manually assisted delivery
+897,20100,1031,Cardiac mapping
+898,07054,3583,Other incision of soft tissue of hand
+899,8479,2334,Release of carpal tunnel
+900,3668,1086,Transapical replacement of aortic valve
+901,56739,3638,Open and other replacement of tricuspid valve
+902,75889,2389,Audiometry
+903,20017,1140,Impedance phlebography
+904,45821,3692,Unilateral thyroid lobectomy
+905,29592,2443,Recession of tendon of hand
+906,470,1194,Manual and mechanical traction
+907,7981,3746,Other removal of remaining ovary
+908,3094,2497,Hyperbaric oxygenation
+909,87401,1248,Pelvic evisceration
+910,63580,0,Other permanent tracheostomy
+911,1628,2552,"Resurfacing hip, total, acetabulum and femoral head"
+912,71527,1303,Periarterial sympathectomy
+913,94451,54,Caval-pulmonary artery anastomosis
+914,17349,2606,Endoscopic removal of stone(s) from pancreatic duct
+915,7920,1357,Other and open bilateral repair of direct inguinal hernia with graft or prosthesis
+916,V663,108,Other bilateral subcutaneous mammectomy
+917,30982,2660,Mechanical vitrectomy by anterior approach
+918,E9421,1411,Irrigation of other indwelling urinary catheter
+919,9939,162,Injection or infusion of glucarpidase
+920,V748,2715,"Microscopic examination of specimen from liver, biliary tract, and pancreas, cell block and Papanicolaou smear"
+921,4370,1466,Removal of external heart assist system(s) or device(s)
+922,62133,217,Transjugular liver biopsy
+923,94213,2769,Total wrist replacement
+924,66091,1520,Other antesternal esophagocolostomy
+925,6961,271,"Revision of hip replacement, not otherwise specified"
+926,01513,2823,Vaginal suspension and fixation
+927,7673,1574,Total body perfusion
+928,V4964,325,"Division of joint capsule, ligament, or cartilage, other specified sites"
+929,E8233,2877,Replacement of cast on upper limb
+930,1966,1629,Injection into bone marrow
+931,V141,380,Levator muscle operation for urethrovesical suspension
+932,99521,2932,Other nonoperative cardiac and vascular measurements
+933,64111,1683,Removal of other device from urinary system
+934,82311,434,Other graft of esophagus
+935,42653,2986,Excision or destruction of peritoneal tissue
+936,9031,1737,Removal of foreign body from vulva without incision
+937,E0169,488,"Other diagnostic procedures on intestine, site unspecified"
+938,96905,3040,Renal scan and radioisotope function study
+939,7787,1791,Other reconstruction of mandible
+940,7230,543,Revision of tympanoplasty
+941,44324,3095,Transplant of intestine
+942,25052,1846,Percutaneous aspiration of tunica vaginalis
+943,09382,597,"Extracorporeal shockwave lithotripsy [ESWL] of the kidney, ureter and/or bladder"
+944,36054,3149,Other bile duct anastomosis
+945,0668,1900,"Laparoscopic repair of inguinal hernia with graft or prosthesis, not otherwise specified"
+946,41419,651,"Other partial ostectomy, humerus"
+947,0538,3203,Lobotomy and tractotomy
+948,7981,1954,Open and other multiple segmental resection of large intestine
+949,V8009,705,"Initial insertion of single-chamber device, rate responsive"
+950,7131,3258,Repair of blepharoptosis by frontalis muscle technique with fascial sling
+951,7755,2009,Other computerized axial tomography
+952,096,760,Scan of lymphatic system
+953,29626,3312,Other repair of esophagus
+954,1560,2063,"Other local excision or destruction of lesion of joint, foot and toe"
+955,E9170,814,Keratophakia
+956,4730,3366,Other suture of tendon
+957,72981,2117,Phlebography of other Intra-Abdominal veins using contrast material
+958,2979,868,"Removal of implanted devices from bone, tibia and fibula"
+959,81253,3420,Creation of conduit between left ventricle and aorta
+960,37302,2172,Osteopathic manipulative treatment to move tissue fluids
+961,34590,923,Other uterine suspension
+962,80313,3475,Diagnostic ultrasound of head and neck
+963,36301,2226,Local excision or destruction of lesion or tissue of bony palate
+964,86342,977,"Microscopic examination of specimen from nervous system and of spinal fluid, parasitology"
+965,7786,3529,Repair of blepharoptosis by tarsal technique
+966,7323,2280,Other incidental appendectomy
+967,01883,1031,Excision of other bile duct
+968,36340,3583,Revision or closure of vesicostomy
+969,V690,2334,Drainage of face and floor of mouth
+970,43820,1086,"Other excision of joint, foot and toe"
+971,V6107,3638,Removal of intraluminal foreign body from mouth without incision
+972,E8193,2389,Closed reduction of dislocation of elbow
+973,46451,1140,(Aorto)coronary bypass of two coronary arteries
+974,E8316,3692,"Other partial ostectomy, tibia and fibula"
+975,63300,2443,Percutaneous ablation of liver lesion or tissue
+976,01660,1194,"Suture of peptic ulcer, not otherwise specified"
+977,E8918,3746,"Excision of bone for graft, patella"
+978,64292,2497,Biopsy of scrotum or tunica vaginalis
+979,25020,1248,Injection of anesthetic into peripheral nerve for analgesia
+980,V7641,0,Individual therapy for psychosexual dysfunction
+981,1419,2552,Removal of other device from urinary system
+982,64622,1303,"Other excision of joint, unspecified site"
+983,01742,54,"Microscopic examination of specimen from lymph node and of lymph, parasitology"
+984,42613,2606,"Insertion of partial spinal disc prosthesis, lumbosacral"
+985,0205,1357,"Local excision of lesion or tissue of bone, carpals and metacarpals"
+986,01585,108,"Insertion of bone growth stimulator, femur"
+987,2243,2660,Other operations on thoracic duct
+988,4910,1411,Dermal regenerative graft
+989,2366,162,Removal of dental wiring
+990,28950,2715,Closed [aspiration] [percutaneous] biopsy of spleen
+991,7933,1466,Suture of laceration of large intestine
+992,20065,217,Closed [percutaneous] [needle] biopsy of prostate
+993,E9950,2769,Pelvic opaque dye contrast radiography
+994,52419,1520,Other diagnostic procedures on tongue
+995,1108,271,Open mediastinal biopsy
+996,30749,2823,Operations on globus pallidus
+997,37200,1574,Radical excision of iliac lymph nodes
+998,E8739,325,Closure of skin and subcutaneous tissue of other sites
+999,59652,2877,Repair of unspecified septal defect of heart with prosthesis
+1000,75563,1629,Repair of cleft lip
